@@ -1,0 +1,3 @@
+auth.env
+*.env
+!auth.env.example
